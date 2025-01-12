@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/bharatsidd54119" target="blank"><img src="https://img.shields.io/twitter/follow/bharatsidd54119?logo=twitter&style=for-the-badge" alt="bharatsidd54119" /></a> </p>
 
-- 🌱 I’m currently learning **MERN STACK**
+- 🌱 I’m a **MERN STACK**
 
 - 👨‍💻 All of my projects are available at [https://bharatsiddharth.github.io/Portfolio-webiste/](https://bharatsiddharth.github.io/Portfolio-webiste/)
 

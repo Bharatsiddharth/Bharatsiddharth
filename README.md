@@ -9,7 +9,7 @@
 
 - 🌱 I’m a **MERN STACK**
 
-- 👨‍💻 All of my projects are available at [https://bharatsiddharth.github.io/Portfolio-webiste/](https://bharatsiddharth.github.io/Portfolio-webiste/)
+- 👨‍💻 All of my projects are available at https://bharat-portfolio-with-3js.vercel.app/
 
 - 💬 Ask me about **MERN**
 
